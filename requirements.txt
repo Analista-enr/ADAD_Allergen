@@ -1,0 +1,21 @@
+# Interface Jupyter
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# Manipulation et calcul de données
+numpy
+pandas
+scipy
+tqdm
+# Visualisation graphique
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+
+# Lecture de fichiers Excel
+openpyxl
