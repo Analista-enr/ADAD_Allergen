@@ -3,6 +3,8 @@ jupyterlab
 notebook
 ipykernel
 ipywidgets
+isort
+ruff
 
 # Manipulation et calcul de données
 numpy
